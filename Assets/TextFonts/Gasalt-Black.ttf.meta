@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 3adfd30b30c25c04881cac0a5337b334
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Gasalt
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: d84ad1a42af47254a8b4193f25b16b0e, type: 3}
+  - {fileID: 12800000, guid: 0314631b98894304cbdb240d3af5ead5, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

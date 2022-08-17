@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - YellowGround
+  - GreenGroundKill
+  - Kill
+  - Ground
+  - ObstacleTarget
+  - RainDrop
+  - Star
+  - Score
+  - Crown
+  - ShopItem
+  - ShopStarImage
+  - ShopCrownImage
+  - ShopStarText
+  - ShopCrownText
+  - Gravity
+  - NoGravity
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Player
+  - Water
+  - UI
+  - 
+  - Ground
+  - 
+  - 
+  - PostProcessing
+  - 
+  - IceGround
+  - PurpleGround
+  - GreenGround
+  - UIPostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - Kill
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: enteties
+    uniqueID: 2253874459
+    locked: 0
+  - name: EASYLayer
+    uniqueID: 2756442015
+    locked: 0
+  - name: Animations
+    uniqueID: 1079365929
+    locked: 0
